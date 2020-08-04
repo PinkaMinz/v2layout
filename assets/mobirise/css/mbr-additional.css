@@ -3297,3 +3297,29 @@ body {
   color: #232323;
   text-align: left;
 }
+
+.cid-s6I0mvh4SN {
+  background: #ffffff;
+  
+}
+.cid-s6I0mvh4SN .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-s6I0mvh4SN .video-block {
+    width: 100% !important;
+  }
+}
+.cid-s6I6wjSms1 {
+  background: #ffffff;
+}
+.cid-s6I6wjSms1 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-s6I6wjSms1 .video-block {
+    width: 100% !important;
+  }
+}
